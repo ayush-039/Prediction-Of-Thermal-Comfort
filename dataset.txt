@@ -1,0 +1,4 @@
+dataset for lstm:
+https://drive.google.com/file/d/1Rl5D6m3Zp6pv1QnfNPgwb-i3gb_J3Esf/view?usp=drive_link
+dataser for other algorithms:
+https://drive.google.com/file/d/1Zf1VWr0AMbFZ0XmbQw36cubSpS9QDrMH/view?usp=drive_link
